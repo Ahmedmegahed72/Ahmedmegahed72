@@ -23,7 +23,6 @@ Computer Science Graduate Faculty of computer and artificial intelligence CS dep
 <br/>
 <br/>
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=OHTNUgubSNoBm9ebh3HdwgChfGW4Yx0ea1TENpbNcUQ"></script>
 
 ## GitHub analytics
 
