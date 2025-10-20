@@ -24,8 +24,7 @@ Computer Science Graduate Faculty of computer and artificial intelligence CS dep
 <br/>
 
 ## 🌍 Visitor Map
-
-[![Map My Visitors](https://mapmyvisitors.com/map.png?d=OHTNUgubSNoBm9ebh3HdwgChfGW4Yx0ea1TENpbNcUQ)](https://mapmyvisitors.com)
+[![Map My Visitors](https://mapmyvisitors.com/map.png?d=Zu0ekLAcOu8cvF7DXmtToI1jkzrWv8Zo8ByfCrojC6E&cl=ffffff&w=a)](https://mapmyvisitors.com)
 
 ## GitHub analytics
 
