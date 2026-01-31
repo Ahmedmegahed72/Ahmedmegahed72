@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ahmed+Megahed;Computer+Science+Graduate+%F0%9F%8E%93;Building+the+future+with+code+%26+AI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ahmed+Megahed;Computer+Science+TA;build+the+future+with+code+%26+AI+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -36,48 +36,64 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <!-- Customize these! Add more like: TensorFlow, SQL, C++, etc. -->
   <br><br>
   <img src="https://img.shields.io/badge/AI_&_ML-Interested-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI & ML" />
 </p>
 
 <br>
 
-<!-- GitHub Stats -->
+<!-- GitHub Analytics -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedmegahed72&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmed's GitHub stats" width="48%" />
+  <!-- Stats card -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Ahmedmegahed72&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Ahmed's GitHub stats"
+    width="48%"
+  />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedmegahed72&theme=radical&hide_border=true" alt="GitHub Streak" width="40%" />
+  <!-- Streak card - switched to eight fork (more stable right now) -->
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=Ahmedmegahed72&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    width="40%"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmedmegahed72&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&hide=java" alt="Top Languages" width="48%" />
+  <!-- Top Languages card -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ahmedmegahed72&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&hide=java&langs_count=8"
+    alt="Top Languages"
+    width="48%"
+  />
 </div>
 
 <br>
 
-<!-- Visitor Map / Views -->
-<h2 align="center">🌍 Visitors</h2>
+<!-- Bigger Visitor Map (mapmyvisitors) -->
+<h2 align="center">🌍 Visitor Map</h2>
+<div align="center">
+  <a href="https://mapmyvisitors.com/web/1c055" title="Visit tracker">
+    <img 
+      src="https://mapmyvisitors.com/map.png?d=Zu0ekLAcOu8cvF7DXmtToI1jkzrWv8Zo8ByfCrojC6E&cl=ffffff&w=700" 
+      alt="World map of profile visitors (larger version)" 
+      width="700"
+    />
+  </a>
+</div>
+
+<br>
+
+<!-- Bigger & better-looking Profile Views Counter -->
+<h2 align="center">👀 Profile Visitors</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedmegahed72&label=Profile+Views&color=00D4FF&style=flat-square" alt="Profile views" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Ahmedmegahed72&label=Profile+Views&color=00D4FF&style=plastic&logo=eye&logoColor=white" 
+    alt="Profile views counter - bigger & modern style" 
+  />
   <br><br>
-  [![Visitor Map](https://mapmyvisitors.com/map.png?d=Zu0ekLAcOu8cvF7DXmtToI1jkzrWv8Zo8ByfCrojC6E&cl=ffffff&w=a)](https://mapmyvisitors.com)
+  <p><i>Thanks for visiting! Your views are appreciated 🚀</i></p>
 </div>
-
-<br>
-
-<!-- Fun / Closing -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
-  <p><i>Thanks for stopping by! Let's connect and build something amazing 🚀</i></p>
-</div>
-
-<!-- Optional: Add this later when you have pinned repos
-<h2 align="center">🔥 Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/Ahmedmegahed72/your-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedmegahed72&repo=your-repo&theme=radical" /></a>
-</p>
--->
